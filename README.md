@@ -171,7 +171,7 @@ to join the tables, and create a relationship between them.**
 <br>
 
 
-**In summary, this report answers your manager’s top questions:**
+**In summary, this report answers top questions:**
 
 ***1. Which month and year had the most profit?***
 <br>
