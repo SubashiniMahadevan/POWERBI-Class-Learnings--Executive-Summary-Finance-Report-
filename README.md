@@ -1,4 +1,4 @@
-# POWERBI-Class-Learnings--Executive-Summary-Finance-Report-
+# POWERBI-Class-Learnings--Executive-Summary-Finance-Report
 
 # Sales Analysis Report
 
